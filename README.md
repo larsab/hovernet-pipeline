@@ -14,6 +14,8 @@ Original HoVer-Net papers:
 
 [Link to arxiv](https://arxiv.org/abs/1812.06499v4)
 
+[Link to GitHub repository](https://github.com/vqdang/hover_net)
+
 
 ## Set Up Environment using Docker
 
